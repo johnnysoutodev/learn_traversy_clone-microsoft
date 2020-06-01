@@ -1,0 +1,19 @@
+{
+  "name": "tm-clone-microsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnysoutodev/TM-Clone-Microsoft.git"
+  },
+  "author": "Johnny Souto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnysoutodev/TM-Clone-Microsoft/issues"
+  },
+  "homepage": "https://github.com/johnnysoutodev/TM-Clone-Microsoft#readme"
+}
